@@ -1,0 +1,46 @@
+.rick {
+	display: flex;
+	margin-left: auto;
+    margin-right: auto;
+   
+    height: 800px;
+    width: 607px;
+}
+
+body {
+	background-color: darkgrey;
+}
+
+.eye {
+	position: absolute;
+	top: 39%;
+   left: 52%;
+   width: 60px;
+   height: 60px;
+  
+ 
+
+	
+    
+}
+
+.firsteye {
+	position: absolute;
+	top: 39%;
+   left: 44%;
+   width: 60px;
+   height: 60px;
+   
+}
+
+.milieu {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 5px;
+   height: 5px;
+   
+   background-color: red;
+}
+
+
